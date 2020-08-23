@@ -6,12 +6,12 @@ I like books (paper format) - they are my daily dose of inspiration.  Sometimes 
 
 Retrospectively analyzing, when I was 4 years old I used to express myself through building. This became a passion. Later I understood that passion cannot be nurtured without a principle. When I realized that **as a programmer you don't need anything more than a computer to create**, I began to convert ideas into digital tools that allow people to understand and solve problems.
 
-### Goals
+### Goals:
 - **Short-term**: finding a working environment able to assess, develop and exploit my skills, creativity and knowledge that I have accumulated over time. I think that spending a great deal of your life at work and choosing energy in where and who you work with is always a good investment.
 - **Long-term**: developing a digital mentor.
 
 
-### Certifications
+### Certifications:
 - **Google Cloud, Professional Data Engineer** ([see credentials](https://www.credential.net/ea16f035-918e-40b1-b204-5fa779ed3225?key=a0632fc502be9d50d27897d24fce83db7acb056cc85ca7d93f506dd2060a5858#gs.e8pkyh))
 - **Advanced Google Analytics** ([see credentials](https://analytics.google.com/analytics/academy/certificate/-xSpaCN5TIywB7ARpIJKvA))
 - **Google Tag Manager Fundamentals** ([see credentials](https://analytics.google.com/analytics/academy/certificate/FS_ZULJeQzmg1OMD7rvnDg))
@@ -31,7 +31,7 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 - **Flutter**: for mobile & web still learning;
 
 
-### Other relevant skills and knowledge
+### Other relevant skills and knowledge:
 - **Tag managers**: GTM (client and server side), Tealium (client);
 - **Privacy solutions**: based on iAB TCFV1 and iAB TCFV2 specs;
 - **Digital marketing automation**: using Salesforce Marketing Cloud + Firebase + GCloud / Heroku;
