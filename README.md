@@ -22,28 +22,29 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 
 
 ### Tech stack:
-- Cloud: GCP, AWS, Azure;
-- JS (Node, Express, Google Firebase, Vue);
-- PHP (Laravel, Wordpress, Lumen);
-- CSS & HTML (bootstrap, bulma, tailwind, material ui);
-- Java (for mobile apps, Spring Boot);
-- Flutter (for mobile & web still learning);
+- **Cloud**: GCP, AWS, Azure;
+- **JS**: Node, Express, Google Firebase, Vue;
+- **PHP**: Laravel, Wordpress, Lumen;
+- **CSS & HTML**: bootstrap, bulma, tailwind, material ui;
+- **Java**: for mobile apps, Spring Boot;
+- **Ruby**: with Rails for web dev;
+- **Flutter**: for mobile & web still learning;
 
 
 ### Other relevant skills and knowledge
-- Tag managers: GTM (client and server side), Tealium (client);
-- Privacy solutions: based on iAB TCFV1 and iAB TCFV2 specs;
-- Digital marketing automation: using Salesforce Marketing Cloud + Firebase + GCloud / Heroku;
-- Knowledge of many DSPs & AdServers solutions;
-- Data warehouses (migrate several projects from premise to GCP);
-- ETL processes (in cloud);
-- Mobile Apps (using Flutter, Swift, Java), web platforms (Vue, Node JS, Laravel, Tailwindcss), REST Api integrations and Smart Analytics Solutions for Big Data in Cloud;
+- **Tag managers**: GTM (client and server side), Tealium (client);
+- **Privacy solutions**: based on iAB TCFV1 and iAB TCFV2 specs;
+- **Digital marketing automation**: using Salesforce Marketing Cloud + Firebase + GCloud / Heroku;
+- Some **DSPs** & **AdServers** solutions;
+- **Data warehouses** (migrate several projects from premise to GCP);
+- **ETL** pipelines & processes in cloud;
+- **Mobile Apps** (using Flutter, Swift, Java), **Web platforms** (Vue, Node JS, Laravel, Tailwindcss), **REST Api** integrations and **Smart Analytics Solutions** for Big Data in Cloud;
 
 	
 ### Talks and trainings:
--  Using Google Cloud Platform, AI (ML apis, AutoML, Tables, BigQuery ML, TensorFlow) for some customers;
--  Firebase - A game changer at BMIND; (collabo with [Christian Stoyanov](https://github.com/crissto));
-- Soon I'll give and entire lesson about Firebase (with focus on Marketing things) at Edix;
+-  I've presented Google Cloud Platform all suite of **AI** solutions (ML apis, AutoML, Tables, BigQuery ML, TensorFlow) for some customers;
+-  **Firebase - A game changer** at BMIND; (collabo with [Christian Stoyanov](https://github.com/crissto));
+- Soon I'll give and entire lesson about **Firebase, with focus on Marketing** at Edix;
 
 ### Tech topics that interest me: 
 - DevOps;
