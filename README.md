@@ -10,9 +10,7 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 - **Short-term**: finding a working environment able to assess, develop and use my skills, creativity and knowledge that I have accumulated over time. I think that spending a great deal of your life at work and choosing energy in where and who you work with is always a good investment.
 - **Long-term**: developing a digital mentor.
 
-
-
-
+---
 
 ### EXPERIENCE:
 
@@ -63,6 +61,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - code & design for many websites (eg: https://www.pentruacasa.com);
 - deploy and maintain the solutions;
 
+---
 
 ### EDUCATION:
 
@@ -72,9 +71,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 **School**: Technical College Constantin Istrati (Campina, Romania)
 **Title**: Analyst programmer, Mathematics and Computer Science (2002 - 2006)
 
-
-
-
+---
 
 ### CERTIFICATIONS:
 - **Google Cloud, Professional Data Engineer** ([see credentials](https://www.credential.net/ea16f035-918e-40b1-b204-5fa779ed3225?key=a0632fc502be9d50d27897d24fce83db7acb056cc85ca7d93f506dd2060a5858#gs.e8pkyh))
@@ -85,6 +82,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - **Introduction to Data Studio** ([see credentials](https://analytics.google.com/analytics/academy/certificate/uDTa0p64R_6XgEogUwIpcA))
 - Currently I’m trying to certify myself as: "[**TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/PW4V6LXK8U9P)" ([see my struggle](https://github.com/seftimie/TensorFlowJourney))
 
+---
 
 ### TECH STACK:
 - **Cloud**: GCP, AWS, Azure;
@@ -94,6 +92,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - **Big Data**: Cloud Functions, PubSub, Dataflow, BigQuery, Google Storage etc
 - **AI**: Platform AI, AutoMLs, Kubeflow
 
+---
 
 ### OTHER RELEVANT SKILLS AND KNOWLEDGE:
 - **Tag managers**: GTM (client and server side), Tealium (client);
@@ -104,6 +103,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - **ETL** pipelines & processes in cloud;
 - **Mobile Apps** (using Flutter, Swift, Java), **Web platforms** (Vue, Node JS, Laravel, Tailwindcss), **REST Api** integrations and **Smart Analytics Solutions** for Big Data in Cloud;
 
+---
 	
 ### TALKS:
 
@@ -112,6 +112,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - In august 2020, I founded TF Team / Group: 14 members, from 5 different companies with the main scope to learn together TensorFlow and pass the exam. For more details please consult: [First breakthrough](https://www.linkedin.com/posts/eftimiesilviudaniel_tensorflow-coursera-machinelearning-activity-6716249834870849536-1g4F/), [my progress with TensorFlow in Practice Specialization](https://github.com/seftimie/TensorFlowJourney)
 - Talk at BMind, “Firebase - A game changer”  collaboration with [Christian Stoyanov](https://github.com/crissto);
 
+---
 
 ### PROJECTS (some relevant work, from last 3 years):
 
@@ -128,6 +129,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 
 - **Teachable Machine 4 Youtube/Netflix** ([code](https://github.com/seftimie/TeachableMachine4YoutubeNetflix)): Open source demo, using machine learning to play/pause videos from distance on Youtube, Netflix or HBO in a hacky way. I've been using Teachable Machine (from Google AI Experiments), some Javascript and Chrome Developer Tools. Now, this project it’s part of “[The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)”
 
+---
 
 ### INTERESTS:
 
@@ -136,6 +138,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - Sharing ideas, solutions and connecting with lots of people ([linkedin](https://www.linkedin.com/in/eftimiesilviudaniel/detail/recent-activity/shares/), [twitter](https://twitter.com/silviueftimie), [github](https://github.com/seftimie))
 - Tech: DevOps, MLOps, FaaS, CaaS paradigms.  Machine Learning with Tensorflow. Data multi cloud solutions; (eg: Anthos, BigQuery Omni). Solution for big data / validation and cleaning data. Mobile and web dev using Flutter;
 
+---
 
 
 ### CONTACT ME: 
