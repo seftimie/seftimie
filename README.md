@@ -129,6 +129,10 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 
 - **Teachable Machine 4 Youtube/Netflix** ([code](https://github.com/seftimie/TeachableMachine4YoutubeNetflix)): Open source demo, using machine learning to play/pause videos from distance on Youtube, Netflix or HBO in a hacky way. I've been using Teachable Machine (from Google AI Experiments), some Javascript and Chrome Developer Tools. Now, this project it’s part of “[The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)”
 
+- **Rock Paper Scissors with Google Teachable Machine** ([game](https://silviueftimiedev.web.app/) | [video](https://www.youtube.com/watch?v=6poEnjJL0jI) | [code](https://github.com/seftimie/Rock-Paper-Scissors-with-Google-Teachable-Machine)): I have used again the magic of Google to train a visual machine learning model and turn everything into a classic game for my kids: Rock Paper Scissors.
+
+
+
 ---
 
 ### INTERESTS:
