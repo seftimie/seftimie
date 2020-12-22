@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is Silviu Daniel Eftimie, I’m a Madrid-based **professional Data Engineer** / **Senior Software Developer** at [BMIND](https://bmind.es/), a **lifelong learner**, a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos) | [2](https://twitter.com/silviueftimie/status/1243964087329054721) ) and **teacher** at [Edix Unir](https://www.edix.com/es/carreras/carreras-growth-marketing/) . 
+My name is Silviu Daniel Eftimie, I’m a Madrid-based **Principal Cloud Developer** at [Mediabrands](https://www.ipgmediabrands.com/), a **lifelong learner**, a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos) | [2](https://twitter.com/silviueftimie/status/1243964087329054721) ) and **teacher** at [Edix Unir](https://www.edix.com/es/carreras/carreras-growth-marketing/) . 
 
 I like books (paper format) - they are my daily dose of inspiration.  Sometimes I write. I keep in touch and let myself be guided by a number of people.
 
@@ -14,8 +14,11 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 
 ### EXPERIENCE:
 
+#### Principal Cloud Developer at Mediabrands (ES)
+Madrid Area, Spain (Dec 2020 - present)
+
 #### Senior Data Engineer & Principal Software Developer at BMIND
-Madrid Area, Spain (Jan 2016 - present)
+Madrid Area, Spain (Jan 2016 - Dec 2020)
 - designing data pipelines (ETL / ELT) to ingest, store, transform and activate data (GCP: Dataflow, Bigquery, Google Storage, Cloud Sql);
 - designing data processing solution in batch and real time (with Cloud Functions, Cloud Run, PubSub, Dataflow, BigQuery);
 - migration/creation/maintaining of data lakes and data warehouses;
