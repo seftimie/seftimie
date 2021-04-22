@@ -44,7 +44,7 @@ Madrid Area, Spain (Jan 2015 - dec 2015)
 - collaborating with clients developers;
 - automated processes to ingest, store, transform and activate data in real time and batch;
 - integrations via API of lots different systems; (eg: appsflyer to client data warehouse)
-- collaborate many peoples, different projects and problems from all Havas Media Agencies: Arena, DBi, Ecselis, Forward, Socialyse;
+- collaborate with many people, different projects for Havas Media Agencies: Arena, DBi, Ecselis, Forward, Socialyse;
 - A/B Testing on web and mobile;
 
 
