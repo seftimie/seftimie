@@ -78,6 +78,7 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 
 ### CERTIFICATIONS:
 - **Google Cloud, Professional Data Engineer** ([see credentials](https://www.credential.net/ea16f035-918e-40b1-b204-5fa779ed3225?key=a0632fc502be9d50d27897d24fce83db7acb056cc85ca7d93f506dd2060a5858#gs.e8pkyh))
+- **Facebook Marketing Developer** ([see credentials](https://www.linkedin.com/posts/eftimiesilviudaniel_keepgrowing-mediabrands-facebook-activity-6816645195455582208-sP4U))
 - **Advanced Google Analytics** ([see credentials](https://analytics.google.com/analytics/academy/certificate/-xSpaCN5TIywB7ARpIJKvA))
 - **Google Tag Manager Fundamentals** ([see credentials](https://analytics.google.com/analytics/academy/certificate/FS_ZULJeQzmg1OMD7rvnDg))
 - **Tealium iQ Advanced Deployment & Solutions Certification**
