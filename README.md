@@ -16,7 +16,7 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 
 #### Principal Cloud Developer at Mediabrands (ES)
 Madrid Area, Spain (Dec 2020 - present)
-- Design, Develop and Deploy Cloud Native Applications on GCP;
+- Design, Develop and Deploy highly scalable and reliable Cloud Native Applications on GCP;
 - Automate boring stuffs (internal and clients processes);
 - Collaborate with all agencies and teams from Mediabrands;
 
