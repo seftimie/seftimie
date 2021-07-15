@@ -16,6 +16,7 @@ Retrospectively analyzing, when I was 4 years old I used to express myself throu
 
 #### Principal Cloud Developer at Mediabrands (ES)
 Madrid Area, Spain (Dec 2020 - present)
+Design, Develop and Deploy Cloud Native Applications on GCP
 
 #### Senior Data Engineer & Principal Software Developer at BMIND
 Madrid Area, Spain (Jan 2016 - Dec 2020)
