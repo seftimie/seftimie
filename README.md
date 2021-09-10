@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is Silviu Daniel Eftimie, I’m a Madrid-based **Principal Cloud Developer** at [Mediabrands](https://www.ipgmediabrands.com/), a **lifelong learner**, a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos) | [2](https://twitter.com/silviueftimie/status/1243964087329054721) ) and **teacher** at [Edix Unir](https://www.edix.com/es/carreras/carreras-growth-marketing/) . 
+My name is Silviu Daniel Eftimie, I’m a Madrid-based **Principal Cloud Developer** at [Mediabrands](https://www.ipgmediabrands.com/), a life long learner by heart, a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos) | [2](https://twitter.com/silviueftimie/status/1243964087329054721) ) and **teacher** at [Edix Unir](https://www.edix.com/es/carreras/carreras-growth-marketing/) . 
 
 I like books (paper format) - they are my daily dose of inspiration.  Sometimes I write. I keep in touch and let myself be guided by a number of people.
 
