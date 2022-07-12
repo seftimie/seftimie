@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is Silviu Daniel Eftimie, I’m a Madrid-based **[Principal Cloud Developer](https://www.linkedin.com/posts/eftimiesilviudaniel_gcpcloud-clouddeveloper-cloud-activity-6859499403992956928-bQ_-)** at Mediabrands, a life long learner by heart, and a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos)|[2](https://twitter.com/silviueftimie/status/1243964087329054721) ).
+My name is Silviu Daniel Eftimie, I’m a Madrid-based **[Principal Cloud Developer](https://www.linkedin.com/posts/eftimiesilviudaniel_gcpcloud-clouddeveloper-cloud-activity-6859499403992956928-bQ_-)** at Mediabrands, a life long learner by heart, and a proud dad ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos)|[2](https://twitter.com/silviueftimie/status/1243964087329054721) ).
 
 I like books (paper format) - they are my daily dose of inspiration.  Sometimes I write. I keep in touch and let myself be guided by a number of people.
 
@@ -108,8 +108,8 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - [Programmatic Talks, Google Cloud Madrid (europe-southwest1!)](https://www.youtube.com/watch?v=ibjVtM5F88I)
 - [Debate Mate ("Easy as pie serverless")](https://www.youtube.com/watch?v=2NcakeHbvXA)
 - [GMP feat GCP: Firebase Hosting, GTM, GA4 and BigQuery](https://www.linkedin.com/posts/eftimiesilviudaniel_gmp-gcp-bigquery-activity-6874670501424320512-wVE8)
-- **[Kick Off de Mediabrands 2021](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf)** ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_mediabrands-animamundi-eliudkipchoge-activity-6868253335250604032-XjKX) | [talk](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf))
-- **[Superautopista](https://github.com/seftimie/notes/tree/main/superautopista)** ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_edix-notes-activity-6787088064469585920-RTMb) | [talk](https://github.com/seftimie/notes/tree/main/superautopista))
+- [Kick Off de Mediabrands 2021](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf) ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_mediabrands-animamundi-eliudkipchoge-activity-6868253335250604032-XjKX) | [talk](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf))
+- [Superautopista](https://github.com/seftimie/notes/tree/main/superautopista) ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_edix-notes-activity-6787088064469585920-RTMb) | [talk](https://github.com/seftimie/notes/tree/main/superautopista))
 - [Tecnologías de Big Data al Servicio del Marketing Digital" via Edix](https://www.linkedin.com/posts/eftimiesilviudaniel_carrera-en-growth-marketing-convi%C3%A9rtete-activity-6711248556960821248-3-Gu)
 - As a Google Cloud Professional Data Engineer, I've presented for different clients all the Google Cloud Solution for Big Data and Machine Learning;
 - In august 2020, I founded TF Team / Group: 14 members, from 5 different companies with the main scope to learn together TensorFlow and pass the exam. For more details please consult: [First breakthrough](https://www.linkedin.com/posts/eftimiesilviudaniel_tensorflow-coursera-machinelearning-activity-6716249834870849536-1g4F/), [my progress with TensorFlow in Practice Specialization](https://github.com/seftimie/TensorFlowJourney)
