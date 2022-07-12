@@ -1,10 +1,12 @@
 ### Hello,
 
-My name is Silviu Daniel Eftimie, I’m a Madrid-based **Principal Cloud Developer** at [Mediabrands](https://www.ipgmediabrands.com/), a life long learner by heart, a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos) | [2](https://twitter.com/silviueftimie/status/1243964087329054721) ) and **teacher** at [Edix Unir](https://www.edix.com/es/carreras/carreras-growth-marketing/) . 
+My name is Silviu Daniel Eftimie, I’m a Madrid-based **[Principal Cloud Developer](https://www.linkedin.com/posts/eftimiesilviudaniel_gcpcloud-clouddeveloper-cloud-activity-6859499403992956928-bQ_-)** at Mediabrands, a life long learner by heart, and a proud **father** ([1](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg/videos)|[2](https://twitter.com/silviueftimie/status/1243964087329054721) ).
 
 I like books (paper format) - they are my daily dose of inspiration.  Sometimes I write. I keep in touch and let myself be guided by a number of people.
 
 Retrospectively analyzing, when I was 4 years old I used to express myself through building. This became a passion. Later I understood that passion cannot be nurtured without a principle. When I realized that **as a programmer you don't need anything more than a computer to create**, I began to convert ideas into digital tools that allow people to understand and solve problems.
+
+---
 
 ### GOALS:
 - **Short-term**: finding a working environment able to assess, develop and use my skills, creativity and knowledge that I have accumulated over time. I think that spending a great deal of your life at work and choosing energy in where and who you work with is always a good investment.
@@ -80,14 +82,39 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 ---
 
 ### CERTIFICATIONS:
-- **Google Cloud, Professional Data Engineer** ([see credentials](https://www.credential.net/ea16f035-918e-40b1-b204-5fa779ed3225?key=a0632fc502be9d50d27897d24fce83db7acb056cc85ca7d93f506dd2060a5858#gs.e8pkyh))
+
+- **GCP Professional Cloud Developer** ([see credentials](https://www.linkedin.com/posts/eftimiesilviudaniel_gcpcloud-clouddeveloper-cloud-activity-6859499403992956928-bQ_-))
+- **GCP Professional Data Engineer** ([see credentials](https://www.credential.net/ea16f035-918e-40b1-b204-5fa779ed3225?key=a0632fc502be9d50d27897d24fce83db7acb056cc85ca7d93f506dd2060a5858#gs.e8pkyh))
+- **DeepLearning AI Tensorflow Developer** ([see credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/PW4V6LXK8U9P)) ([see my struggle](https://github.com/seftimie/TensorFlowJourney))
 - **Facebook Marketing Developer** ([see credentials](https://www.linkedin.com/posts/eftimiesilviudaniel_keepgrowing-mediabrands-facebook-activity-6816645195455582208-sP4U))
 - **Advanced Google Analytics** ([see credentials](https://analytics.google.com/analytics/academy/certificate/-xSpaCN5TIywB7ARpIJKvA))
 - **Google Tag Manager Fundamentals** ([see credentials](https://analytics.google.com/analytics/academy/certificate/FS_ZULJeQzmg1OMD7rvnDg))
 - **Tealium iQ Advanced Deployment & Solutions Certification**
+- **GTM Server Side Certification** ([see credentials](https://www.linkedin.com/posts/eftimiesilviudaniel_gtmss-course-privacy-activity-6912057664210378752-mUMb))
 - **Google Analytics Individual Qualification** ([see credentials](https://skillshop.exceedlms.com/student/award/37001403))
 - **Introduction to Data Studio** ([see credentials](https://analytics.google.com/analytics/academy/certificate/uDTa0p64R_6XgEogUwIpcA))
-- Currently I’m trying to certify myself as: "[**TensorFlow Developer**](https://www.coursera.org/account/accomplishments/specialization/certificate/PW4V6LXK8U9P)" ([see my struggle](https://github.com/seftimie/TensorFlowJourney))
+
+---
+
+### AWARDS:
+- [Winners (Best in Show) Google Cloud - Easy as pie serverless Hackathon 2022](https://www.linkedin.com/posts/eftimiesilviudaniel_serverless-hackathon-winners-activity-6904384906378772480-IE4U) 
+- [MLess at Scale on GCP Blog](https://cloud.google.com/blog/products/serverless/serverless-hackathon-winners-announced)
+- [MLess at Scale on Google Dev Library](https://devlibrary.withgoogle.com/products/cloud/repos/seftimie-MLessAtScale)
+- [Prometeo, Google Marketing Partners Awards '21](https://www.linkedin.com/posts/eftimiesilviudaniel_googlemarketingpartnerawards21-gmpa2-activity-6844595768339243008-9KLZ)
+
+---
+
+### TALKS:
+- [Programmatic Talks, Google Cloud Madrid (europe-southwest1!)](https://www.youtube.com/watch?v=ibjVtM5F88I)
+- [Debate Mate ("Easy as pie serverless")](https://www.youtube.com/watch?v=2NcakeHbvXA)
+- [GMP feat GCP: Firebase Hosting, GTM, GA4 and BigQuery](https://www.linkedin.com/posts/eftimiesilviudaniel_gmp-gcp-bigquery-activity-6874670501424320512-wVE8)
+- **[Kick Off de Mediabrands 2021](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf)** ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_mediabrands-animamundi-eliudkipchoge-activity-6868253335250604032-XjKX) | [talk](https://github.com/seftimie/notes/blob/main/marcapasos/marcapasos.pdf))
+- **[Superautopista](https://github.com/seftimie/notes/tree/main/superautopista)** ([post](https://www.linkedin.com/posts/eftimiesilviudaniel_edix-notes-activity-6787088064469585920-RTMb) | [talk](https://github.com/seftimie/notes/tree/main/superautopista))
+- [Tecnologías de Big Data al Servicio del Marketing Digital" via Edix](https://www.linkedin.com/posts/eftimiesilviudaniel_carrera-en-growth-marketing-convi%C3%A9rtete-activity-6711248556960821248-3-Gu)
+- As a Google Cloud Professional Data Engineer, I've presented for different clients all the Google Cloud Solution for Big Data and Machine Learning;
+- In august 2020, I founded TF Team / Group: 14 members, from 5 different companies with the main scope to learn together TensorFlow and pass the exam. For more details please consult: [First breakthrough](https://www.linkedin.com/posts/eftimiesilviudaniel_tensorflow-coursera-machinelearning-activity-6716249834870849536-1g4F/), [my progress with TensorFlow in Practice Specialization](https://github.com/seftimie/TensorFlowJourney)
+- Talk at BMind, “Firebase - A game changer”  collaboration with [Christian Stoyanov](https://github.com/crissto);
+
 
 ---
 
@@ -110,14 +137,6 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - **ETL** pipelines & processes in cloud;
 - **Mobile Apps** (using Flutter, Swift, Java), **Web platforms** (Vue, Node JS, Laravel, Tailwindcss), **REST Api** integrations and **Smart Analytics Solutions** for Big Data in Cloud;
 
----
-	
-### TALKS:
-
-- As a Google Cloud Professional Data Engineer, I've presented for different clients all the Google Cloud Solution for Big Data and Machine Learning;
-- I'm one of the teachers at Edix, [Growth Marketing -> Tecnologías de Big Data a Servicio del Marketing Digital](https://www.edix.com/es/carreras/carreras-growth-marketing/) , [Organizer announcement](https://www.linkedin.com/posts/salvatorecospito_carrera-en-growth-marketing-convi%C3%A9rtete-activity-6717097742725918720-Dl_e/), [Personal announcement](https://www.linkedin.com/posts/eftimiesilviudaniel_carrera-en-growth-marketing-convi%C3%A9rtete-activity-6711248556960821248-3-Gu/) 
-- In august 2020, I founded TF Team / Group: 14 members, from 5 different companies with the main scope to learn together TensorFlow and pass the exam. For more details please consult: [First breakthrough](https://www.linkedin.com/posts/eftimiesilviudaniel_tensorflow-coursera-machinelearning-activity-6716249834870849536-1g4F/), [my progress with TensorFlow in Practice Specialization](https://github.com/seftimie/TensorFlowJourney)
-- Talk at BMind, “Firebase - A game changer”  collaboration with [Christian Stoyanov](https://github.com/crissto);
 
 ---
 
@@ -138,13 +157,46 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 
 - **Rock Paper Scissors with Google Teachable Machine** ([game](https://silviueftimiedev.web.app/) | [video](https://www.youtube.com/watch?v=6poEnjJL0jI) | [code](https://github.com/seftimie/Rock-Paper-Scissors-with-Google-Teachable-Machine)): I have used again the magic of Google to train a visual machine learning model and turn everything into a classic game for my kids: Rock Paper Scissors.
 
+---
+
+### REVIEWS:
+- [Making Friends with Machine Learning](https://www.linkedin.com/posts/eftimiesilviudaniel_machinelearning-google-mfml-activity-6872476863927734272-VaXX)
+- [The Infinite Game](https://www.linkedin.com/posts/eftimiesilviudaniel_buildingbridges-iread-investinpeople-activity-6837692525784911872-Y5Li)
+- [The downside of sir `cancherity`](https://www.linkedin.com/posts/eftimiesilviudaniel_what-ever-happened-to-ibms-watson-activity-6824305181904121857-xjo7)
+- [Book review: Building Serverless Applications with Google Cloud Run](https://www.linkedin.com/posts/eftimiesilviudaniel_googlecloud-activity-6755797994672545792-1rs9)
+- [Decoding Decisions - Making sense of the messy middle](https://www.linkedin.com/posts/eftimiesilviudaniel_1-google-public%C3%B3-un-ebook-decoding-decisions-activity-6736374331707822080-ZHxM)
+- [Apache Beam / Dataflow](https://www.linkedin.com/posts/eftimiesilviudaniel_hey-alexandra-abbas-just-finished-your-activity-6724065952381575168-dNHc)
+
+---
+
+### POSTS:
+- [Welcome GCP Madrid (europe-southwest1)](https://www.linkedin.com/posts/eftimiesilviudaniel_gcp-madrid-region-activity-6935155273397366784-hEl9)
+- [Application Development with Cloud Run](https://www.linkedin.com/posts/eftimiesilviudaniel_gcp-cloudrun-serverless-activity-6815196754913329153-V4Je)
+- [Unthinkable vs Inexpressible Thoughts](https://www.linkedin.com/posts/eftimiesilviudaniel_education-perspective-activity-6812402559869849600-0pgd)
+- [How to become a data-driven retailer](https://www.linkedin.com/posts/eftimiesilviudaniel_siloed-data-driven-activity-6804010351894528000-AWDR)
+- [Google Marketing Livestream 2021](https://www.linkedin.com/posts/eftimiesilviudaniel_cloud-retail-recommendations-activity-6803768215420862464-dO9_)
+- [Extend Google Analytics with Firebase Cloud Functions](https://www.linkedin.com/posts/eftimiesilviudaniel_firebase-measurement-analytics-activity-6800080918624129024-GI7u)
+- [Adobe on cookieless](https://www.linkedin.com/posts/eftimiesilviudaniel_cookieless-strategy-adobe-activity-6793564348880052224-5tNQ)
+- [BigQuery as a CDP?](https://www.linkedin.com/posts/eftimiesilviudaniel_bigquery-warehouse-gmp-activity-6792092556546060288-w_Me)
+- [GMP + GCP fusion](https://www.linkedin.com/posts/eftimiesilviudaniel_ga4-bigqueryml-firebase-activity-6788351546414387200-STC4)
+- [On mentorship (A Mind at Play: How Claude Shannon Invented the Information Age)](https://www.linkedin.com/posts/eftimiesilviudaniel_iread-activity-6758410400414371842-4Jah)
+- [Firebase Summit 2020: Import custom segments](https://www.linkedin.com/posts/eftimiesilviudaniel_firebase-firebasesummit-googlecloudplatform-activity-6733899227346292736-3lQs)
+- [Add Recommendations to your app with Firebase ML, Google Analytics, BigQuery](https://www.linkedin.com/posts/eftimiesilviudaniel_firebase-summit2020-activity-6727335040084144128-G5Pn)
+- [Peter Norvig on "As We May Program"](https://www.linkedin.com/posts/eftimiesilviudaniel_peter-norvig-on-as-we-may-program-the-activity-6723363118136754176-cmUf)
+- [GCP Resilient Systems / Buildpacks (Google Cloud Next)](https://www.linkedin.com/posts/eftimiesilviudaniel_googlecloudnext-activity-6719242309512269825-eXTC)
+- [GCP: Stream Analytics](https://www.linkedin.com/posts/eftimiesilviudaniel_gcp-streaminganalytics-pubsub-activity-6713203107133698048-epFP)
+- [Streamlining Cloud Run development with Cloud Code](https://www.linkedin.com/posts/eftimiesilviudaniel_devops-cloud-tools-activity-6711753095124144128-mzp9)
+
+
+
+
 
 
 ---
 
 ### INTERESTS:
 
-- Learning and contributing to open source projects: crmint, great expectations, StreamProcessor. Currently I'm involved with those teams via Slack (try to learn from them);
+- Learning and contributing to open source projects;
 - Education: deeply involved in the education of my kid. (eg: [Chess for kids](https://drive.google.com/file/d/10aosswacUs78odKcAHVHqEnlEjqMRPOx/view), [Coding for kids](https://www.youtube.com/channel/UCHV6pF1KjgCJB4M__4ZYISg))
 - Sharing ideas, solutions and connecting with lots of people ([linkedin](https://www.linkedin.com/in/eftimiesilviudaniel/detail/recent-activity/shares/), [twitter](https://twitter.com/silviueftimie), [github](https://github.com/seftimie))
 - Tech: DevOps, MLOps, FaaS, CaaS paradigms.  Machine Learning with Tensorflow. Data multi cloud solutions; (eg: Anthos, BigQuery Omni). Solution for big data / validation and cleaning data. Mobile and web dev using Flutter;
