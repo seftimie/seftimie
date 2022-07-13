@@ -135,7 +135,10 @@ Bucharest, Romania (Jan 2007 - Mar 2010)
 - Some **DSPs** & **AdServers** solutions;
 - **Data warehouses** (migrate several projects from premise to GCP);
 - **ETL** pipelines & processes in cloud;
-- **Mobile Apps** (using Flutter, Swift, Java), **Web platforms** (Vue, Node JS, Laravel, Tailwindcss), **REST Api** integrations and **Smart Analytics Solutions** for Big Data in Cloud;
+- **Mobile Apps** (using Flutter, Swift, Java) 
+- **Web platforms** (Vue, Node JS, Laravel, Tailwindcss) 
+- **REST Api** integrations
+- **Smart Analytics Solutions** for Big Data in Cloud;
 
 
 ---
